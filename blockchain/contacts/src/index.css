@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    font-family: "pingfang sc", "宋体", Arial, Helvetica, sans-serif, serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    padding: 15px;
+    font-size: 14px;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+        monospace;
+    background-color: #efefef;
+    padding: 5px;
+}
